@@ -1,4 +1,4 @@
-Application Name: Voice Assistance Application
+Application Name: Voice Assistance Application with security patch
 
 Authors: Shruthi, etc..
 
